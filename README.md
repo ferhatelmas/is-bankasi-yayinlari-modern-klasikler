@@ -28,6 +28,7 @@
 * [ ] Dort Oyun - Bernerd Shaw - Tiyatro - 452
 * [ ] Dortlerin Yemini - Sir Arthur Conan Doyle - Roman - 158
 * [ ] Dr. Jekyll ile Bay Hyde - Robert Louis Stevenson - Roman - 104
+* [x] ~~Dr. Jekyll ile Bay Hyde - Robert Louis Stevenson - Roman - 104~~
 * [ ] Ekmegimi Kazanirken - Maksim Gorki - Roman - 440
 * [ ] Ellerin Zamanlarla Dolu - Paul Celan - Siir - 176
 * [ ] Ermis - Halil Cibran - Siir - 56
@@ -60,7 +61,7 @@
 * [ ] Otomatik Portakal - Anthony Burgess - Distopya - 176
 * [ ] Piramit - William Golding - Roman - 232
 * [ ] Sato - Franz Kafka - Roman - 360
-* [ ] Satranc - Stefan Zweig - Oyku - 77
+* [x] ~~Satranc - Stefan Zweig - Oyku - 77~~
 * [ ] Sineklerin Tanrisi - William Golding - Roman - 261
 * [ ] Tanri Claudius - Robert Graves - Hikaye - 584
 * [ ] Uc Buyuk Usta: Balzac – Dickens – Dostoyevski - Stefan Zweig - Biyografi - 217
