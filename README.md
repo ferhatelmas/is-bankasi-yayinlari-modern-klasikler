@@ -10,7 +10,7 @@
 * [ ] Benim Universitelerim - Maksim Gorki - Roman - 168
 * [ ] Beyaz Dis - Jack London - Roman - 258
 * [ ] Bilinmeyen Adanin Oykusu - Jose Saramago - Oyku - 60
-* [ ] Bilinmeyen Bir Kadinin Mektubu - Oyku - 68
+* [ ] Bilinmeyen Bir Kadinin Mektubu - Stefan Zweig - Oyku - 68
 * [ ] Bir Elin Sesi Var - Anthony Burgess - Roman - 200
 * [ ] Bir Hanimefendinin Portresi - Henry James - Roman - 765
 * [ ] Bir Kadinin Yasamindan Yirmi Dort Saat - Stefan Zweig - Roman - 80
