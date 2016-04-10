@@ -27,7 +27,6 @@
 * [ ] Donusum - Franz Kafka - Oyku - 74
 * [ ] Dort Oyun - Bernerd Shaw - Tiyatro - 452
 * [ ] Dortlerin Yemini - Sir Arthur Conan Doyle - Roman - 158
-* [ ] Dr. Jekyll ile Bay Hyde - Robert Louis Stevenson - Roman - 104
 * [x] ~~Dr. Jekyll ile Bay Hyde - Robert Louis Stevenson - Roman - 104~~
 * [ ] Ekmegimi Kazanirken - Maksim Gorki - Roman - 440
 * [ ] Ellerin Zamanlarla Dolu - Paul Celan - Siir - 176
