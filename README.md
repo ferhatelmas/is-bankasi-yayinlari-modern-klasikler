@@ -13,7 +13,7 @@
 * [ ] Bilinmeyen Bir Kadinin Mektubu - Stefan Zweig - Oyku - 68
 * [ ] Bir Elin Sesi Var - Anthony Burgess - Roman - 200
 * [ ] Bir Hanimefendinin Portresi - Henry James - Roman - 765
-* [ ] Bir Kadinin Yasamindan Yirmi Dort Saat - Stefan Zweig - Roman - 80
+* [x] ~~Bir Kadinin Yasamindan Yirmi Dort Saat - Stefan Zweig - Roman - 80~~
 * [ ] Bir Yazarin Gunlugu - Virginia Woolf - Gunluk - 464
 * [ ] Butun Siirlerinden Secmeler - Rainer Maria Rilke - Siir - 128
 * [ ] Casus - Joseph Conrad - Roman - 326
