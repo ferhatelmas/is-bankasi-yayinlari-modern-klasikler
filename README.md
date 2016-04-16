@@ -2,7 +2,7 @@
 
 * [ ] A.B.D 1919 - John Dos Passos - Roman - 592
 * [ ] A.B.D 42. Enlem - John Dos Passos - Roman - 508
-* [ ] Aforizmalar - Franz Kafka - Aforizma - 109
+* [x] ~~Aforizmalar - Franz Kafka - Aforizma - 109~~
 * [ ] Altin Gozde Yansimalar - Carson Mccullers - Gotik - 242
 * [ ] Ayaktakimi Arasinda - Maksim Gorki - Tiyatro - 126
 * [ ] Bahcede Eglence - Katherine Mansfield - Oyku - 236
