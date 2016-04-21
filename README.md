@@ -24,7 +24,7 @@
 * [ ] Demir Okce - Jack London - Distopya - 336
 * [ ] Deniz Feneri - Virginia Woolf - Roman - 224
 * [ ] Deniz Kurdu - Jack London - Roman - 376
-* [ ] Donusum - Franz Kafka - Oyku - 74
+* [x] ~~Donusum - Franz Kafka - Oyku - 74~~
 * [ ] Dort Oyun - Bernerd Shaw - Tiyatro - 452
 * [ ] Dortlerin Yemini - Sir Arthur Conan Doyle - Roman - 158
 * [x] ~~Dr. Jekyll ile Bay Hyde - Robert Louis Stevenson - Roman - 104~~
