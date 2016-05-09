@@ -20,7 +20,7 @@
 * [ ] Catal Dil - William Golding - Roman - 184
 * [ ] Cocuklugum - Maksim Gorki - Otobiyografi - 282
 * [ ] Cocuksu Bir Sey - Katherine Mansfield - Roman - 216
-* [ ] Dava - Franz Kafka - Roman - 224
+* [x] ~~Dava - Franz Kafka - Roman - 224~~
 * [ ] Demir Okce - Jack London - Distopya - 336
 * [ ] Deniz Feneri - Virginia Woolf - Roman - 224
 * [ ] Deniz Kurdu - Jack London - Roman - 376
