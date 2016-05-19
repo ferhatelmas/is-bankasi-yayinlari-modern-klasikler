@@ -57,7 +57,7 @@
 * [ ] Oda Muzigi - James Joyce - Siir - 65
 * [ ] Olaganustu Bir Gece - Stefan Zweig - Roman - 80
 * [ ] Olumcul Yumurtalar - Mihail Bulgakov - Roman - 136
-* [ ] Otomatik Portakal - Anthony Burgess - Distopya - 176
+* [x] ~~Otomatik Portakal - Anthony Burgess - Distopya - 176~~
 * [ ] Piramit - William Golding - Roman - 232
 * [ ] Sato - Franz Kafka - Roman - 360
 * [x] ~~Satranc - Stefan Zweig - Oyku - 77~~
