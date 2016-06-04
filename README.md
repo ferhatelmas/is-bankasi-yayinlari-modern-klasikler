@@ -65,7 +65,7 @@
 * [ ] Tanri Claudius - Robert Graves - Hikaye - 584
 * [ ] Uc Buyuk Usta: Balzac – Dickens – Dostoyevski - Stefan Zweig - Biyografi - 217
 * [ ] Uc Kiz Kardes - Anton Pavlovic Cehov - Tiyatro - 128
-* [ ] Uc Ornek Oyku Ve Bir Onsoz - Miguel De Unamuno - Roman - 124
+* [x] ~~Uc Ornek Oyku Ve Bir Onsoz - Miguel De Unamuno - Roman - 124~~
 * [ ] Vahsetin Cagrisi - Jack London - Roman - 258
 * [ ] Vanya Dayi - Anton Pavlovic Cehov - Tiyatro - 90
 * [ ] Yakici Sir - Stefan Zweig - Roman - 96
