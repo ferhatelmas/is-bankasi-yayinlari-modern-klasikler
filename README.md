@@ -61,7 +61,7 @@
 * [ ] Piramit - William Golding - Roman - 232
 * [ ] Sato - Franz Kafka - Roman - 360
 * [x] ~~Satranc - Stefan Zweig - Oyku - 77~~
-* [ ] Sineklerin Tanrisi - William Golding - Roman - 261
+* [x] ~~Sineklerin Tanrisi - William Golding - Roman - 261~~
 * [ ] Tanri Claudius - Robert Graves - Hikaye - 584
 * [ ] Uc Buyuk Usta: Balzac – Dickens – Dostoyevski - Stefan Zweig - Biyografi - 217
 * [ ] Uc Kiz Kardes - Anton Pavlovic Cehov - Tiyatro - 128
